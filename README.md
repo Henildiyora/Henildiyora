@@ -1,6 +1,6 @@
 # Henil S Diyora
 
-[cite_start]M.S. in Computer Science at the University at Buffalo with a passion for building intelligent systems, from firmware to full-stack machine learning solutions[cite: 5, 12, 57].
+M.S. in Computer Science at the University at Buffalo with a passion for building intelligent systems, from firmware to full-stack machine learning solutions[cite: 5, 12, 57].
 
 ### My Journey
 My journey into technology began in software, with a deep dive into the world of machine learning during my undergraduate studies. I was fascinated by the power of data and independently studied the statistical and mathematical concepts behind ML algorithms.
