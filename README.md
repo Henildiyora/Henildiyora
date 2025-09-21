@@ -31,5 +31,5 @@ Here are the primary technologies I work with
 
 ### 📫 Get In Touch
 
-* [cite_start]**LinkedIn:** [linkedin.com/in/henil-diyora](https://www.linkedin.com/in/henil-diyora)
-* [cite_start]**Email:** [henil0650@gmail.com](mailto:henil0650@gmail.com)
+* **LinkedIn:** [linkedin.com/in/henil-diyora](https://www.linkedin.com/in/henil-diyora)
+* **Email:** [henil0650@gmail.com](mailto:henil0650@gmail.com)
