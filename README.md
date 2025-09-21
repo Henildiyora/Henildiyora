@@ -22,10 +22,10 @@ Here are the primary technologies I work with
 * **Cloud & MLOps:** AWS (SageMaker, S3, EC2, Elastic Beanstalk), Docker, Flask, REST APIs
 
 **⚡ Embedded Systems & Firmware**
-* [cite_start]**Programming:** C/C++
-* [cite_start]**RTOS & Platforms:** FreeRTOS, Embedded Linux (basic), STM32, Arduino
-* [cite_start]**Protocols:** I2C, SPI, UART, CAN, LIN
-* [cite_start]**Tools & Debugging:** Keil uVision, STM32CubeIDE, JTAG/SWD Debugging, Git
+* **Programming:** C/C++
+* **RTOS & Platforms:** FreeRTOS, Embedded Linux (basic), STM32, Arduino
+* **Protocols:** I2C, SPI, UART, CAN, LIN
+* **Tools & Debugging:** Keil uVision, STM32CubeIDE, JTAG/SWD Debugging, Git
 
 ---
 
