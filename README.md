@@ -13,15 +13,16 @@ Here are the primary technologies I work with
 
 
 **🤖 Machine Learning & Data Science**
-**Languages & Libraries:** Python, SQL, NumPy, Pandas
-**ML Frameworks:** PyTorch, Scikit-learn, XGBoost
-**NLP & Vision:** Hugging Face Transformers, LangChain, OpenCV, YOLO
-**Cloud & MLOps:** AWS (SageMaker, S3, EC2, Elastic Beanstalk), Docker, Flask, REST APIs
+* **Languages & Libraries:** Python, SQL, NumPy, Pandas
+* **ML Frameworks:** PyTorch, Scikit-learn, XGBoost
+* **NLP & Vision:** Hugging Face Transformers, LangChain, OpenCV, YOLO
+* **Cloud & MLOps:** AWS (SageMaker, S3, EC2, Elastic Beanstalk), Docker, Flask, REST APIs
+
 **⚡ Embedded Systems & Firmware**
-**Programming:** C/C++
-**RTOS & Platforms:** FreeRTOS, Embedded Linux (basic), STM32, Arduino
-**Protocols:** I2C, SPI, UART, CAN, LIN
-**Tools & Debugging:** Keil uVision, STM32CubeIDE, JTAG/SWD Debugging, Git
+* **Programming:** C/C++
+* **RTOS & Platforms:** FreeRTOS, Embedded Linux (basic), STM32, Arduino
+* **Protocols:** I2C, SPI, UART, CAN, LIN
+* **Tools & Debugging:** Keil uVision, STM32CubeIDE, JTAG/SWD Debugging, Git
 
 
 ### 📫 Get In Touch
