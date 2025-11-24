@@ -1,36 +1,45 @@
-# Hi there, I'm Henil Diyora 👋
+# Henil S Diyora
 
-**M.S. Computer Science @ University at Buffalo** | Ex-Intellithink Industrial IoT | Building intelligent systems from firmware to full-stack ML
+Buffalo, NY | +1 (716) 247-3551 | henil0650@gmail.com | [linkedin.com/in/henil-diyora](https://linkedin.com/in/henil-diyora) | [github.com/HenilDiyora](https://github.com/HenilDiyora)
 
-Bridging the gap between **embedded hardware** and **machine learning** — because real intelligence starts at the edge.
+Master’s student in Computer Science at University at Buffalo with strong expertise in building scalable backend systems and AI-powered applications using Python, Java, and PostgreSQL. Experienced in deploying machine learning models to production with Docker and AWS, and architecting full-stack solutions with FastAPI and React.
 
-<img src="https://github.com/HenilDiyora/HenilDiyora/blob/main/assets/banner.jpg?raw=true" alt="Henil Diyora Banner" width="100%"/>
+Seeking entry-level **Software Engineer** or **AI/ML Engineer** roles with a growing interest in **Edge AI and Embedded Systems**.
 
-### 🌟 About Me
-- Currently pursuing **Master's in Computer Science** at University at Buffalo (Expected May 2027)
-- Former **Data Scientist Intern** at Intellithink Industrial IoT — built predictive maintenance systems processing 1,000+ sensor points/second
-- Passionate about **edge AI**, real-time systems, and production-grade backend engineering
-- Recently diving deep into **embedded systems** — STM32, FreeRTOS, device drivers, and low-level protocols
-- I believe the future of AI isn't just in the cloud — it's on the device
+### Technical Skills
+**Languages:** Python, Java, C/C++, SQL, TypeScript  
+**Backend & Frameworks:** FastAPI, Flask, React, Node.js, Spring Boot, REST APIs  
+**Databases:** PostgreSQL (PL/pgSQL, Triggers, Indexing), Redis, DynamoDB, MongoDB, SQLAlchemy  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda, SageMaker), Docker, Git, Linux  
+**AI & Machine Learning:** PyTorch, Hugging Face, LangChain, Google Gemini, OpenCV, YOLO, spaCy  
+**Embedded (Learning):** STM32, FreeRTOS, I2C, SPI, UART, C Firmware  
 
-### 🔥 Featured Projects
+### Projects
+**LogiCore** – High-Performance Supply Chain Database  
+• Built BCNF-normalized PostgreSQL database with PL/pgSQL triggers and stored procedures  
+• Improved query performance >90% using B-Tree & Bitmap indexes (EXPLAIN ANALYZE)  
+• Ensured ACID compliance and concurrency-safe inventory operations  
 
-| Project | Description | Tech Stack |
-|-------|-----------|------------|
-| **[LogiCore](https://github.com/HenilDiyora/LogiCore)** | High-performance supply chain database with BCNF normalization, PL/pgSQL triggers, B-tree/Bitmap indexing, and full ACID compliance | PostgreSQL • PL/pgSQL • Python |
-| **[AI Candidate Screener](https://github.com/HenilDiyora/AI-Candidate-Screener)** | Full-stack recruitment platform with hybrid LLM + RegEx scoring (Gemini 2.5 Pro) and 100% API cost reduction via caching | FastAPI • Google Gemini • React • SQLModel |
-| **Multi-Modal AI Dashboard** | Real-time vision-language toolkit with BLIP, DETR, ViLT + singleton model loading (40% faster startup) | PyTorch • Hugging Face • Streamlit • spaCy |
-| **STM32 Real-Time Sensor Hub** *(WIP)* | FreeRTOS-based sensor fusion platform with I2C/SPI drivers and edge anomaly detection | C • FreeRTOS • STM32 • CubeIDE |
+**AI Candidate Screener Platform** – FastAPI + Google Gemini  
+• Full-stack recruitment tool parsing resumes, GitHub & LinkedIn using hybrid LLM + RegEx scoring  
+• Reduced repeated API costs 100% with content-hashing cache  
+• Auto-generates professional PDF reports using pypdf  
 
-More projects → [github.com/HenilDiyora](https://github.com/HenilDiyora?tab=repositories)
+**Multi-Modal AI Analysis Dashboard** – PyTorch + Streamlit  
+• Real-time image captioning, object detection & visual Q&A using BLIP, DETR, ViLT  
+• Reduced startup time 40% with singleton model loader pattern  
 
-### 🛠 Tech Stack
+**Faster R-CNN Object Detection** – BDD100K Dataset  
+• Trained from scratch, benchmarked vs ResNet-50, optimized mAP/IoU in low-light conditions  
 
-```text
-Languages        • Python │ Java │ C/C++ │ SQL │ TypeScript
-Backend          • FastAPI │ Flask │ Spring Boot │ Node.js │ REST/GraphQL
-Databases        • PostgreSQL (PL/pgSQL) │ Redis │ DynamoDB │ MongoDB
-Cloud & DevOps   • AWS (SageMaker, S3, EC2, Lambda) │ Docker │ Kubernetes (learning) │ Git │ CI/CD
-ML/AI            • PyTorch │ Hugging Face │ LangChain │ LlamaIndex │ Gemini │ OpenCV │ YOLO
-Embedded         • STM32 │ FreeRTOS │ I2C │ SPI │ UART │ CAN │ JTAG/SWD
-Tools            • Linux │ Git │ Postman │ VS Code │ Weights & Biases │ STM32CubeIDE
+### Professional Experience
+**Data Scientist Intern** – Intellithink Industrial IoT (May 2023 – June 2024)  
+• Built predictive maintenance models processing 1,000+ sensor points/second  
+• Designed “ski-slope” anomaly filter reducing false positives by 95%  
+• Improved model accuracy 15% and preprocessing speed 30%  
+
+### Education
+**University at Buffalo (SUNY)** – M.S. in Computer Science (Exp. May 2027)  
+**UKA Tarsadia University** – B.Tech in Information Technology (May 2024)
+
+Open to relocation • Actively applying for Full-time & Summer 2026 roles
