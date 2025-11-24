@@ -1,35 +1,36 @@
-# Henil S Diyora
+# Hi there, I'm Henil Diyora 👋
 
-M.S. in Computer Science at the University at Buffalo with a passion for building intelligent systems, from firmware to full-stack machine learning solutions.
+**M.S. Computer Science @ University at Buffalo** | Ex-Intellithink Industrial IoT | Building intelligent systems from firmware to full-stack ML
 
-### My Journey
-My journey into technology began in software, with a deep dive into the world of machine learning during my undergraduate studies. I was fascinated by the power of data and independently studied the statistical and mathematical concepts behind ML algorithms.
+Bridging the gap between **embedded hardware** and **machine learning** — because real intelligence starts at the edge.
 
-This passion led me to a Data Scientist internship at Intellithink Industrial IoT. There, I engineered machine learning models to perform fault detection using high-frequency sensor data from industrial machinery. While analyzing vibration and time-series data, I grew increasingly curious about the hardware that produced it—the IoT devices, the microcontrollers, and the firmware that made it all work. I realized that my impact could be greater if I understood not just how to analyze the data, but how to build the systems that gather it.
+<img src="https://github.com/HenilDiyora/HenilDiyora/blob/main/assets/banner.jpg?raw=true" alt="Henil Diyora Banner" width="100%"/>
 
-Driven by this new interest, I began formally studying embedded systems during my Master's at the University at Buffalo. I started with the fundamentals of hardware, real-time operating systems (RTOS), and communication protocols like I2C and SPI. Now, I'm applying that knowledge by building a portfolio of hands-on projects, from real-time sensor monitors on STM32 boards to custom device drivers. My goal is to work at the intersection of these two fields, creating intelligent devices by bridging the gap between hardware and machine learning.
+### 🌟 About Me
+- Currently pursuing **Master's in Computer Science** at University at Buffalo (Expected May 2027)
+- Former **Data Scientist Intern** at Intellithink Industrial IoT — built predictive maintenance systems processing 1,000+ sensor points/second
+- Passionate about **edge AI**, real-time systems, and production-grade backend engineering
+- Recently diving deep into **embedded systems** — STM32, FreeRTOS, device drivers, and low-level protocols
+- I believe the future of AI isn't just in the cloud — it's on the device
 
----
+### 🔥 Featured Projects
 
-### 🔧 Skills & Tools
+| Project | Description | Tech Stack |
+|-------|-----------|------------|
+| **[LogiCore](https://github.com/HenilDiyora/LogiCore)** | High-performance supply chain database with BCNF normalization, PL/pgSQL triggers, B-tree/Bitmap indexing, and full ACID compliance | PostgreSQL • PL/pgSQL • Python |
+| **[AI Candidate Screener](https://github.com/HenilDiyora/AI-Candidate-Screener)** | Full-stack recruitment platform with hybrid LLM + RegEx scoring (Gemini 2.5 Pro) and 100% API cost reduction via caching | FastAPI • Google Gemini • React • SQLModel |
+| **Multi-Modal AI Dashboard** | Real-time vision-language toolkit with BLIP, DETR, ViLT + singleton model loading (40% faster startup) | PyTorch • Hugging Face • Streamlit • spaCy |
+| **STM32 Real-Time Sensor Hub** *(WIP)* | FreeRTOS-based sensor fusion platform with I2C/SPI drivers and edge anomaly detection | C • FreeRTOS • STM32 • CubeIDE |
 
-Here are the primary technologies I work with
+More projects → [github.com/HenilDiyora](https://github.com/HenilDiyora?tab=repositories)
 
-**🤖 Machine Learning & Data Science**
-* **Languages & Libraries:** Python, SQL, NumPy, Pandas
-* **ML Frameworks:** PyTorch, Scikit-learn, XGBoost
-* **NLP & Vision:** Hugging Face Transformers, LangChain, OpenCV, YOLO
-* **Cloud & MLOps:** AWS (SageMaker, S3, EC2, Elastic Beanstalk), Docker, Flask, REST APIs
+### 🛠 Tech Stack
 
-**⚡ Embedded Systems & Firmware**
-* **Programming:** C/C++
-* **RTOS & Platforms:** FreeRTOS, Embedded Linux (basic), STM32, Arduino
-* **Protocols:** I2C, SPI, UART, CAN, LIN
-* **Tools & Debugging:** Keil uVision, STM32CubeIDE, JTAG/SWD Debugging, Git
-
----
-
-### 📫 Get In Touch
-
-* **LinkedIn:** [linkedin.com/in/henil-diyora](https://www.linkedin.com/in/henil-diyora)
-* **Email:** [henil0650@gmail.com](mailto:henil0650@gmail.com)
+```text
+Languages        • Python │ Java │ C/C++ │ SQL │ TypeScript
+Backend          • FastAPI │ Flask │ Spring Boot │ Node.js │ REST/GraphQL
+Databases        • PostgreSQL (PL/pgSQL) │ Redis │ DynamoDB │ MongoDB
+Cloud & DevOps   • AWS (SageMaker, S3, EC2, Lambda) │ Docker │ Kubernetes (learning) │ Git │ CI/CD
+ML/AI            • PyTorch │ Hugging Face │ LangChain │ LlamaIndex │ Gemini │ OpenCV │ YOLO
+Embedded         • STM32 │ FreeRTOS │ I2C │ SPI │ UART │ CAN │ JTAG/SWD
+Tools            • Linux │ Git │ Postman │ VS Code │ Weights & Biases │ STM32CubeIDE
