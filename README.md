@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on: Building a gamified System Design learning tool and an AI Object Detection platform.<br><br> I’m looking to collaborate on: Any innovative Python projects or tools that use GenAI to solve real problems.<br><br> I’m looking for help with: Finding Software or AI/ML Developer Role for Summer 2026.<br><br> I’m currently learning: Cloud Architecture patterns and how to optimize LLMs for production.<br><br>💬 Ask me about: Python, Java, Database design, and building scalable backends.<br><br>⚡ Fun fact: I spend more time thinking about variable names than actually writing the function.
+I’m currently working on: Building a gamified System Design learning tool and an AI Object Detection platform.<br><br> I’m looking to collaborate on: Any innovative Python projects or tools that use GenAI to solve real problems.<br><br> I’m looking for help with: Finding Software or AI/ML Developer Role for Summer 2026.<br><br> I’m currently learning: Cloud Architecture patterns and how to optimize LLMs for production.<br><br> Ask me about: Python, Java, Database design, and building scalable backends.<br><br> Fun fact: I spend more time thinking about variable names than actually writing the function.
 
 
 ## Socials:
